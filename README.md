@@ -1,22 +1,3 @@
-<p align="center">
-  <sub>Thanks to</sub>  
-</p>
-
-<p align="center">
-  <a href="https://latitude.so/?utm_source=github&utm_medium=readme&utm_campaign=sponsorship">
-    <img src="assets/latitude-dark.png" alt="Latitude Logo" width="700"/>
-  </a>
-</p>
-
-<div align="center" markdown="1">
-
-### [Issue Tracking for AI Agents](https://latitude.so/?utm_source=github&utm_medium=readme&utm_campaign=sponsorship)  
-[Open Source Monitoring platform](https://latitude.so/?utm_source=github&utm_medium=readme&utm_campaign=sponsorship)
-
-</div>
-
----
-
 <a href="https://discord.gg/NwzrWErdMU" target="_blank">
   <img src="https://img.shields.io/discord/1402660735833604126?label=LeaksLab%20Discord&logo=discord&style=for-the-badge" alt="LeaksLab Discord" />
 </a>
@@ -27,6 +8,15 @@
 
 [![Build Status](https://app.cloudback.it/badge/x1xhlol/system-prompts-and-models-of-ai-tools)](https://cloudback.it)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+
+---
+
+## Security Notice for AI Startups
+
+> **Warning:** If you're an AI startup, make sure your data is secure. Exposed prompts or AI models can easily become a target for hackers.
+
+> **Important:** Interested in securing your AI systems?  
+> Check out **[ZeroLeaks](https://zeroleaks.ai/)**, a service designed to help startups **identify and secure** prompt injection and system prompt extraction risks.
 
 ---
 
@@ -47,15 +37,6 @@ Thank you for your support!
 
 ---
 
-## Security Notice for AI Startups
-
-> **Warning:** If you're an AI startup, make sure your data is secure. Exposed prompts or AI models can easily become a target for hackers.
-
-> **Important:** Interested in securing your AI systems?  
-> Check out **[ZeroLeaks](https://zeroleaks.ai/)**, a service designed to help startups **identify and secure** prompt injection and system prompt extraction risks.
-
----
-
 # Sponsors
 
 Sponsor the most comprehensive repository of AI system prompts and reach thousands of developers.
@@ -68,25 +49,14 @@ Sponsor the most comprehensive repository of AI system prompts and reach thousan
 
 > Open an issue.
 
-> **Latest Update:** 10/05/2026
+> **Latest Update:** 12/07/2026
 
 ---
 
 ## Connect With Me
 
-- **X:** [NotLucknite](https://x.com/Lucknite)
+- **X:** [Lucknite](https://x.com/Lucknite)
 - **Discord**: `x1xhlol`
 - **Email**: `lucasvalbuena@pm.me`
-
-
-## Star History
-
-<a href="https://www.star-history.com/#x1xhlol/system-prompts-and-models-of-ai-tools&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
-  </picture>
-</a>
 
 **Drop a star if you find this useful!**
