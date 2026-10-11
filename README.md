@@ -45,6 +45,14 @@ Sponsor the most comprehensive repository of AI system prompts and reach thousan
 
 ---
 
+## Browse the Collection
+
+- **[INDEX.md](INDEX.md)** – auto-generated catalog of every tool folder and file with sizes.
+- **[index.json](index.json)** – the same catalog, machine-readable.
+- **[CONTRIBUTING.md](CONTRIBUTING.md)** – how to add a new tool; CI keeps the index fresh (`python3 scripts/build_index.py`).
+
+---
+
 ## Roadmap & Feedback
 
 > Open an issue.

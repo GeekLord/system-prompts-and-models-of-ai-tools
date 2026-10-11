@@ -1,0 +1,677 @@
+[
+  {
+    "name": "Amp",
+    "files": [
+      {
+        "path": "Amp/README.md",
+        "bytes": 614,
+        "type": "prompt"
+      },
+      {
+        "path": "Amp/claude-4-sonnet.yaml",
+        "bytes": 66230,
+        "type": "prompt"
+      },
+      {
+        "path": "Amp/gpt-5.yaml",
+        "bytes": 62239,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Anthropic",
+    "files": [
+      {
+        "path": "Anthropic/Claude Code/Prompt.txt",
+        "bytes": 13019,
+        "type": "prompt"
+      },
+      {
+        "path": "Anthropic/Claude Code/Tools.json",
+        "bytes": 48962,
+        "type": "tools"
+      },
+      {
+        "path": "Anthropic/Claude Code 2.0.txt",
+        "bytes": 57324,
+        "type": "prompt"
+      },
+      {
+        "path": "Anthropic/Claude Fable 5.txt",
+        "bytes": 119995,
+        "type": "prompt"
+      },
+      {
+        "path": "Anthropic/Claude Sonnet 4.6.txt",
+        "bytes": 98989,
+        "type": "prompt"
+      },
+      {
+        "path": "Anthropic/Claude Sonnet 5 Tools.txt",
+        "bytes": 33246,
+        "type": "prompt"
+      },
+      {
+        "path": "Anthropic/Claude Sonnet 5.txt",
+        "bytes": 55746,
+        "type": "prompt"
+      },
+      {
+        "path": "Anthropic/Claude for Chrome/Prompt.txt",
+        "bytes": 43595,
+        "type": "prompt"
+      },
+      {
+        "path": "Anthropic/Claude for Chrome/Tools.json",
+        "bytes": 24056,
+        "type": "tools"
+      },
+      {
+        "path": "Anthropic/Sonnet 4.5 Prompt.txt",
+        "bytes": 43200,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Augment Code",
+    "files": [
+      {
+        "path": "Augment Code/claude-4-sonnet-agent-prompts.txt",
+        "bytes": 10836,
+        "type": "prompt"
+      },
+      {
+        "path": "Augment Code/claude-4-sonnet-tools.json",
+        "bytes": 28992,
+        "type": "tools"
+      },
+      {
+        "path": "Augment Code/gpt-5-agent-prompts.txt",
+        "bytes": 15035,
+        "type": "prompt"
+      },
+      {
+        "path": "Augment Code/gpt-5-tools.json",
+        "bytes": 19181,
+        "type": "tools"
+      }
+    ]
+  },
+  {
+    "name": "Cluely",
+    "files": [
+      {
+        "path": "Cluely/Default Prompt.txt",
+        "bytes": 4534,
+        "type": "prompt"
+      },
+      {
+        "path": "Cluely/Enterprise Prompt.txt",
+        "bytes": 21306,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "CodeBuddy Prompts",
+    "files": [
+      {
+        "path": "CodeBuddy Prompts/Chat Prompt.txt",
+        "bytes": 1558,
+        "type": "prompt"
+      },
+      {
+        "path": "CodeBuddy Prompts/Craft Prompt.txt",
+        "bytes": 40617,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Comet Assistant",
+    "files": [
+      {
+        "path": "Comet Assistant/System Prompt.txt",
+        "bytes": 53840,
+        "type": "prompt"
+      },
+      {
+        "path": "Comet Assistant/tools.json",
+        "bytes": 7559,
+        "type": "tools-invalid-json"
+      }
+    ]
+  },
+  {
+    "name": "Cursor Prompts",
+    "files": [
+      {
+        "path": "Cursor Prompts/Agent CLI Prompt 2025-08-07.txt",
+        "bytes": 14067,
+        "type": "prompt"
+      },
+      {
+        "path": "Cursor Prompts/Agent Prompt 2.0.txt",
+        "bytes": 38844,
+        "type": "prompt"
+      },
+      {
+        "path": "Cursor Prompts/Agent Prompt 2025-09-03.txt",
+        "bytes": 19028,
+        "type": "prompt"
+      },
+      {
+        "path": "Cursor Prompts/Agent Prompt v1.0.txt",
+        "bytes": 9023,
+        "type": "prompt"
+      },
+      {
+        "path": "Cursor Prompts/Agent Prompt v1.2.txt",
+        "bytes": 32197,
+        "type": "prompt"
+      },
+      {
+        "path": "Cursor Prompts/Agent Tools v1.0.json",
+        "bytes": 23545,
+        "type": "tools"
+      },
+      {
+        "path": "Cursor Prompts/Chat Prompt.txt",
+        "bytes": 12569,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Devin AI",
+    "files": [
+      {
+        "path": "Devin AI/DeepWiki Prompt.txt",
+        "bytes": 5505,
+        "type": "prompt"
+      },
+      {
+        "path": "Devin AI/Prompt.txt",
+        "bytes": 34714,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "dia",
+    "files": [
+      {
+        "path": "dia/Prompt.txt",
+        "bytes": 17194,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Emergent",
+    "files": [
+      {
+        "path": "Emergent/Prompt.txt",
+        "bytes": 37424,
+        "type": "prompt"
+      },
+      {
+        "path": "Emergent/Tools.json",
+        "bytes": 7880,
+        "type": "tools-invalid-json"
+      }
+    ]
+  },
+  {
+    "name": "Google",
+    "files": [
+      {
+        "path": "Google/Antigravity/Fast Prompt.txt",
+        "bytes": 40995,
+        "type": "prompt"
+      },
+      {
+        "path": "Google/Antigravity/planning-mode.txt",
+        "bytes": 22325,
+        "type": "prompt"
+      },
+      {
+        "path": "Google/Gemini/AI Studio vibe-coder.txt",
+        "bytes": 62552,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Junie",
+    "files": [
+      {
+        "path": "Junie/Prompt.txt",
+        "bytes": 6184,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Kiro",
+    "files": [
+      {
+        "path": "Kiro/Mode_Clasifier_Prompt.txt",
+        "bytes": 2883,
+        "type": "prompt"
+      },
+      {
+        "path": "Kiro/Spec_Prompt.txt",
+        "bytes": 31947,
+        "type": "prompt"
+      },
+      {
+        "path": "Kiro/Vibe_Prompt.txt",
+        "bytes": 14151,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Leap.new",
+    "files": [
+      {
+        "path": "Leap.new/Prompts.txt",
+        "bytes": 52456,
+        "type": "prompt"
+      },
+      {
+        "path": "Leap.new/tools.json",
+        "bytes": 16553,
+        "type": "tools"
+      }
+    ]
+  },
+  {
+    "name": "Lovable",
+    "files": [
+      {
+        "path": "Lovable/Agent Prompt.txt",
+        "bytes": 20301,
+        "type": "prompt"
+      },
+      {
+        "path": "Lovable/Agent Tools.json",
+        "bytes": 27944,
+        "type": "tools-invalid-json"
+      }
+    ]
+  },
+  {
+    "name": "Manus Agent Tools & Prompt",
+    "files": [
+      {
+        "path": "Manus Agent Tools & Prompt/Agent loop.txt",
+        "bytes": 2147,
+        "type": "prompt"
+      },
+      {
+        "path": "Manus Agent Tools & Prompt/Modules.txt",
+        "bytes": 12224,
+        "type": "prompt"
+      },
+      {
+        "path": "Manus Agent Tools & Prompt/Prompt.txt",
+        "bytes": 10209,
+        "type": "prompt"
+      },
+      {
+        "path": "Manus Agent Tools & Prompt/tools.json",
+        "bytes": 18501,
+        "type": "tools"
+      }
+    ]
+  },
+  {
+    "name": "NotionAi",
+    "files": [
+      {
+        "path": "NotionAi/Prompt.txt",
+        "bytes": 32081,
+        "type": "prompt"
+      },
+      {
+        "path": "NotionAi/tools.json",
+        "bytes": 34889,
+        "type": "tools"
+      }
+    ]
+  },
+  {
+    "name": "Open Source prompts",
+    "files": [
+      {
+        "path": "Open Source prompts/Bolt/Prompt.txt",
+        "bytes": 21945,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/Cline/Prompt.txt",
+        "bytes": 47083,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/Codex CLI/Prompt.txt",
+        "bytes": 4848,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/Codex CLI/openai-codex-cli-system-prompt-20250820.txt",
+        "bytes": 23864,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/Gemini CLI/google-gemini-cli-system-prompt.txt",
+        "bytes": 18976,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/Lumo/Prompt.txt",
+        "bytes": 8253,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/RooCode/Prompt.txt",
+        "bytes": 43961,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Orchids.app",
+    "files": [
+      {
+        "path": "Orchids.app/Decision-making prompt.txt",
+        "bytes": 6820,
+        "type": "prompt"
+      },
+      {
+        "path": "Orchids.app/System Prompt.txt",
+        "bytes": 58779,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Perplexity",
+    "files": [
+      {
+        "path": "Perplexity/Prompt.txt",
+        "bytes": 9585,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Poke",
+    "files": [
+      {
+        "path": "Poke/Poke agent.txt",
+        "bytes": 12159,
+        "type": "prompt"
+      },
+      {
+        "path": "Poke/Poke_p1.txt",
+        "bytes": 10153,
+        "type": "prompt"
+      },
+      {
+        "path": "Poke/Poke_p2.txt",
+        "bytes": 2440,
+        "type": "prompt"
+      },
+      {
+        "path": "Poke/Poke_p3.txt",
+        "bytes": 5493,
+        "type": "prompt"
+      },
+      {
+        "path": "Poke/Poke_p4.txt",
+        "bytes": 5890,
+        "type": "prompt"
+      },
+      {
+        "path": "Poke/Poke_p5.txt",
+        "bytes": 1158,
+        "type": "prompt"
+      },
+      {
+        "path": "Poke/Poke_p6.txt",
+        "bytes": 1783,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Qoder",
+    "files": [
+      {
+        "path": "Qoder/Quest Action.txt",
+        "bytes": 12357,
+        "type": "prompt"
+      },
+      {
+        "path": "Qoder/Quest Design.txt",
+        "bytes": 26165,
+        "type": "prompt"
+      },
+      {
+        "path": "Qoder/prompt.txt",
+        "bytes": 18620,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Replit",
+    "files": [
+      {
+        "path": "Replit/Prompt.txt",
+        "bytes": 8110,
+        "type": "prompt"
+      },
+      {
+        "path": "Replit/Tools.json",
+        "bytes": 25003,
+        "type": "tools"
+      }
+    ]
+  },
+  {
+    "name": "Same.dev",
+    "files": [
+      {
+        "path": "Same.dev/Prompt.txt",
+        "bytes": 34890,
+        "type": "prompt"
+      },
+      {
+        "path": "Same.dev/Tools.json",
+        "bytes": 22357,
+        "type": "tools"
+      }
+    ]
+  },
+  {
+    "name": "Trae",
+    "files": [
+      {
+        "path": "Trae/Builder Prompt.txt",
+        "bytes": 18569,
+        "type": "prompt"
+      },
+      {
+        "path": "Trae/Builder Tools.json",
+        "bytes": 8264,
+        "type": "tools"
+      },
+      {
+        "path": "Trae/Chat Prompt.txt",
+        "bytes": 8443,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Traycer AI",
+    "files": [
+      {
+        "path": "Traycer AI/phase_mode_prompts.txt",
+        "bytes": 3842,
+        "type": "prompt"
+      },
+      {
+        "path": "Traycer AI/phase_mode_tools.json",
+        "bytes": 18618,
+        "type": "tools-invalid-json"
+      },
+      {
+        "path": "Traycer AI/plan_mode_tools.json",
+        "bytes": 16752,
+        "type": "tools"
+      }
+    ]
+  },
+  {
+    "name": "v0 Prompts and Tools",
+    "files": [
+      {
+        "path": "v0 Prompts and Tools/Prompt.txt",
+        "bytes": 46186,
+        "type": "prompt"
+      },
+      {
+        "path": "v0 Prompts and Tools/Tools.json",
+        "bytes": 28966,
+        "type": "tools"
+      }
+    ]
+  },
+  {
+    "name": "VSCode Agent",
+    "files": [
+      {
+        "path": "VSCode Agent/Prompt.txt",
+        "bytes": 21032,
+        "type": "prompt"
+      },
+      {
+        "path": "VSCode Agent/chat-titles.txt",
+        "bytes": 765,
+        "type": "prompt"
+      },
+      {
+        "path": "VSCode Agent/claude-sonnet-4.txt",
+        "bytes": 9910,
+        "type": "prompt"
+      },
+      {
+        "path": "VSCode Agent/gemini-2.5-pro.txt",
+        "bytes": 9909,
+        "type": "prompt"
+      },
+      {
+        "path": "VSCode Agent/gpt-4.1.txt",
+        "bytes": 11082,
+        "type": "prompt"
+      },
+      {
+        "path": "VSCode Agent/gpt-4o.txt",
+        "bytes": 7876,
+        "type": "prompt"
+      },
+      {
+        "path": "VSCode Agent/gpt-5-mini.txt",
+        "bytes": 25257,
+        "type": "prompt"
+      },
+      {
+        "path": "VSCode Agent/gpt-5.txt",
+        "bytes": 25579,
+        "type": "prompt"
+      },
+      {
+        "path": "VSCode Agent/nes-tab-completion.txt",
+        "bytes": 8910,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Warp.dev",
+    "files": [
+      {
+        "path": "Warp.dev/Prompt.txt",
+        "bytes": 14595,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Windsurf",
+    "files": [
+      {
+        "path": "Windsurf/Prompt Wave 11.txt",
+        "bytes": 11699,
+        "type": "prompt"
+      },
+      {
+        "path": "Windsurf/Tools Wave 11.txt",
+        "bytes": 32843,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Xcode",
+    "files": [
+      {
+        "path": "Xcode/DocumentAction.txt",
+        "bytes": 374,
+        "type": "prompt"
+      },
+      {
+        "path": "Xcode/ExplainAction.txt",
+        "bytes": 245,
+        "type": "prompt"
+      },
+      {
+        "path": "Xcode/MessageAction.txt",
+        "bytes": 235,
+        "type": "prompt"
+      },
+      {
+        "path": "Xcode/PlaygroundAction.txt",
+        "bytes": 414,
+        "type": "prompt"
+      },
+      {
+        "path": "Xcode/PreviewAction.txt",
+        "bytes": 1938,
+        "type": "prompt"
+      },
+      {
+        "path": "Xcode/System.txt",
+        "bytes": 4009,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Z.ai Code",
+    "files": [
+      {
+        "path": "Z.ai Code/prompt.txt",
+        "bytes": 9592,
+        "type": "prompt"
+      }
+    ]
+  }
+]
