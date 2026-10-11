@@ -68,6 +68,11 @@
         "type": "tools"
       },
       {
+        "path": "Anthropic/Opus 4.5 Prompt.txt",
+        "bytes": 118973,
+        "type": "prompt"
+      },
+      {
         "path": "Anthropic/Sonnet 4.5 Prompt.txt",
         "bytes": 43200,
         "type": "prompt"
@@ -96,6 +101,71 @@
         "path": "Augment Code/gpt-5-tools.json",
         "bytes": 19181,
         "type": "tools"
+      }
+    ]
+  },
+  {
+    "name": "BLACKBOX IDE",
+    "files": [
+      {
+        "path": "BLACKBOX IDE/Agent Prompt.txt",
+        "bytes": 126956,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Browser Use",
+    "files": [
+      {
+        "path": "Browser Use/system_prompt.md",
+        "bytes": 16426,
+        "type": "prompt"
+      },
+      {
+        "path": "Browser Use/system_prompt.txt",
+        "bytes": 4878,
+        "type": "prompt"
+      },
+      {
+        "path": "Browser Use/system_prompt_flash.md",
+        "bytes": 14096,
+        "type": "prompt"
+      },
+      {
+        "path": "Browser Use/system_prompt_no_thinking.md",
+        "bytes": 16322,
+        "type": "prompt"
+      },
+      {
+        "path": "Browser Use/task_planer.txt",
+        "bytes": 997,
+        "type": "prompt"
+      },
+      {
+        "path": "Browser Use/validator_of_output.txt",
+        "bytes": 1087,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "ChatGPT Prompts",
+    "files": [
+      {
+        "path": "ChatGPT Prompts/chat-gpt-llm.txt",
+        "bytes": 2862,
+        "type": "prompt"
+      },
+      {
+        "path": "ChatGPT Prompts/chat-gpt-reasoning-plugin.txt",
+        "bytes": 1441,
+        "type": "prompt"
+      },
+      {
+        "path": "ChatGPT Prompts/chat-gpt-web-browsing-plugin.txt",
+        "bytes": 2471,
+        "type": "prompt"
       }
     ]
   },
@@ -130,6 +200,16 @@
     ]
   },
   {
+    "name": "CodinIT.dev",
+    "files": [
+      {
+        "path": "CodinIT.dev/prompt.txt",
+        "bytes": 32759,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
     "name": "Comet Assistant",
     "files": [
       {
@@ -141,6 +221,16 @@
         "path": "Comet Assistant/tools.json",
         "bytes": 7559,
         "type": "tools-invalid-json"
+      }
+    ]
+  },
+  {
+    "name": "Confer",
+    "files": [
+      {
+        "path": "Confer/Prompt.txt",
+        "bytes": 2453,
+        "type": "prompt"
       }
     ]
   },
@@ -181,6 +271,31 @@
         "path": "Cursor Prompts/Chat Prompt.txt",
         "bytes": 12569,
         "type": "prompt"
+      },
+      {
+        "path": "Cursor Prompts/Claude-3.7-Sonnet Agent Prompt.txt",
+        "bytes": 17525,
+        "type": "prompt"
+      },
+      {
+        "path": "Cursor Prompts/Claude-3.7-Sonnet Chat Prompt.txt",
+        "bytes": 12569,
+        "type": "prompt"
+      },
+      {
+        "path": "Cursor Prompts/Composer Agent Prompt.md",
+        "bytes": 27550,
+        "type": "prompt"
+      },
+      {
+        "path": "Cursor Prompts/GPT-4o Agent Functions.json",
+        "bytes": 8490,
+        "type": "tools"
+      },
+      {
+        "path": "Cursor Prompts/GPT-4o Agent Prompt.txt",
+        "bytes": 5432,
+        "type": "prompt"
       }
     ]
   },
@@ -210,6 +325,16 @@
     ]
   },
   {
+    "name": "ElevenLabs",
+    "files": [
+      {
+        "path": "ElevenLabs/conversational-agent.txt",
+        "bytes": 1964,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
     "name": "Emergent",
     "files": [
       {
@@ -225,12 +350,47 @@
     ]
   },
   {
+    "name": "FlintK12",
+    "files": [
+      {
+        "path": "FlintK12/prompt.txt",
+        "bytes": 17653,
+        "type": "prompt"
+      },
+      {
+        "path": "FlintK12/tools.txt",
+        "bytes": 17145,
+        "type": "prompt"
+      },
+      {
+        "path": "FlintK12/user-info.txt",
+        "bytes": 989,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "GitHub Copilot",
+    "files": [
+      {
+        "path": "GitHub Copilot/Prompt.txt",
+        "bytes": 1315,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
     "name": "Google",
     "files": [
       {
         "path": "Google/Antigravity/Fast Prompt.txt",
         "bytes": 40995,
         "type": "prompt"
+      },
+      {
+        "path": "Google/Antigravity/Tools.json",
+        "bytes": 21459,
+        "type": "tools"
       },
       {
         "path": "Google/Antigravity/planning-mode.txt",
@@ -241,6 +401,41 @@
         "path": "Google/Gemini/AI Studio vibe-coder.txt",
         "bytes": 62552,
         "type": "prompt"
+      },
+      {
+        "path": "Google/Gemini/Enterprise/Gemini-2.5-Flash.md",
+        "bytes": 12986,
+        "type": "prompt"
+      },
+      {
+        "path": "Google/Gemini/Enterprise/Gemini-2.5-Pro.md",
+        "bytes": 15806,
+        "type": "prompt"
+      },
+      {
+        "path": "Google/Gemini/Enterprise/Title-Generator.txt",
+        "bytes": 2774,
+        "type": "prompt"
+      },
+      {
+        "path": "Google/Gemini/Gemini 3 Flash Web.txt",
+        "bytes": 5158,
+        "type": "prompt"
+      },
+      {
+        "path": "Google/Gemini/Lyria 3.txt",
+        "bytes": 3099,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Highlight",
+    "files": [
+      {
+        "path": "Highlight/Prompt.txt",
+        "bytes": 7889,
+        "type": "prompt"
       }
     ]
   },
@@ -250,6 +445,16 @@
       {
         "path": "Junie/Prompt.txt",
         "bytes": 6184,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Kagi",
+    "files": [
+      {
+        "path": "Kagi/Assistant Prompt.txt",
+        "bytes": 1885,
         "type": "prompt"
       }
     ]
@@ -290,6 +495,16 @@
     ]
   },
   {
+    "name": "Lightfield CRM",
+    "files": [
+      {
+        "path": "Lightfield CRM/System Prompt.txt",
+        "bytes": 9492,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
     "name": "Lovable",
     "files": [
       {
@@ -325,6 +540,61 @@
       {
         "path": "Manus Agent Tools & Prompt/tools.json",
         "bytes": 18501,
+        "type": "tools"
+      }
+    ]
+  },
+  {
+    "name": "Marvis",
+    "files": [
+      {
+        "path": "Marvis/Prompt (English Translation).txt",
+        "bytes": 70879,
+        "type": "prompt"
+      },
+      {
+        "path": "Marvis/Prompt.txt",
+        "bytes": 55442,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Minimax",
+    "files": [
+      {
+        "path": "Minimax/system_prompt.md",
+        "bytes": 20766,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Mistral",
+    "files": [
+      {
+        "path": "Mistral/Mistral prompt.txt",
+        "bytes": 6616,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Moonshot AI",
+    "files": [
+      {
+        "path": "Moonshot AI/Kimi K2.5.txt",
+        "bytes": 8666,
+        "type": "prompt"
+      },
+      {
+        "path": "Moonshot AI/context.txt",
+        "bytes": 2032,
+        "type": "prompt"
+      },
+      {
+        "path": "Moonshot AI/tools.json",
+        "bytes": 6502,
         "type": "tools"
       }
     ]
@@ -443,6 +713,11 @@
         "type": "prompt"
       },
       {
+        "path": "Open Source prompts/Localforge/Prompt.txt",
+        "bytes": 11268,
+        "type": "prompt"
+      },
+      {
         "path": "Open Source prompts/Lumo/Prompt.txt",
         "bytes": 8253,
         "type": "prompt"
@@ -481,6 +756,31 @@
         "path": "Open Source prompts/RooCode/Prompt.txt",
         "bytes": 43961,
         "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/Suna/Prompt.txt",
+        "bytes": 33692,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "OpenAI",
+    "files": [
+      {
+        "path": "OpenAI/ChatGPT 4o.txt",
+        "bytes": 8023,
+        "type": "prompt"
+      },
+      {
+        "path": "OpenAI/ChatGPT 4o_extended.txt",
+        "bytes": 4913,
+        "type": "prompt"
+      },
+      {
+        "path": "OpenAI/codex-desktop-app-context.md",
+        "bytes": 6837,
+        "type": "prompt"
       }
     ]
   },
@@ -495,6 +795,26 @@
       {
         "path": "Orchids.app/System Prompt.txt",
         "bytes": 58779,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Parahelp",
+    "files": [
+      {
+        "path": "Parahelp/README.md",
+        "bytes": 125,
+        "type": "prompt"
+      },
+      {
+        "path": "Parahelp/manager_prompt.txt",
+        "bytes": 3404,
+        "type": "prompt"
+      },
+      {
+        "path": "Parahelp/planning_prompt.txt",
+        "bytes": 4181,
         "type": "prompt"
       }
     ]
@@ -550,6 +870,16 @@
     ]
   },
   {
+    "name": "Puch AI",
+    "files": [
+      {
+        "path": "Puch AI/prompt.txt",
+        "bytes": 7983,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
     "name": "Qoder",
     "files": [
       {
@@ -585,6 +915,16 @@
     ]
   },
   {
+    "name": "Rovo Dev Cli (Atlassian)",
+    "files": [
+      {
+        "path": "Rovo Dev Cli (Atlassian)/prompt.txt",
+        "bytes": 45046,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
     "name": "Same.dev",
     "files": [
       {
@@ -596,6 +936,21 @@
         "path": "Same.dev/Tools.json",
         "bytes": 22357,
         "type": "tools"
+      }
+    ]
+  },
+  {
+    "name": "Sunflower",
+    "files": [
+      {
+        "path": "Sunflower/Functions.json",
+        "bytes": 9915,
+        "type": "tools"
+      },
+      {
+        "path": "Sunflower/System Prompt.txt",
+        "bytes": 10033,
+        "type": "prompt"
       }
     ]
   },
@@ -615,6 +970,11 @@
       {
         "path": "Trae/Chat Prompt.txt",
         "bytes": 8443,
+        "type": "prompt"
+      },
+      {
+        "path": "Trae/SOLO Coder Prompt.txt",
+        "bytes": 15876,
         "type": "prompt"
       }
     ]
@@ -770,6 +1130,26 @@
       {
         "path": "Z.ai Code/prompt.txt",
         "bytes": 9592,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "z.ai slides",
+    "files": [
+      {
+        "path": "z.ai slides/z-ai-slides.txt",
+        "bytes": 24052,
+        "type": "prompt"
+      }
+    ]
+  },
+  {
+    "name": "Zed",
+    "files": [
+      {
+        "path": "Zed/System Prompt.txt",
+        "bytes": 8035,
         "type": "prompt"
       }
     ]
