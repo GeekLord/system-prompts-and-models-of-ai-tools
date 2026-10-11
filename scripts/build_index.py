@@ -9,7 +9,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SKIP = {"assets", "scripts", ".github", ".git"}
-PROMPT_EXT = {".txt", ".md", ".yaml", ".yml", ".json"}
+PROMPT_EXT = {".txt", ".md", ".yaml", ".yml", ".json", ".py", ".go"}
 
 def link(p: Path) -> str:
     return urllib.parse.quote(p.relative_to(ROOT).as_posix())
