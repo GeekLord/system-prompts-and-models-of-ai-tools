@@ -57,7 +57,7 @@ Sponsor the most comprehensive repository of AI system prompts and reach thousan
 
 > Open an issue.
 
-> **Latest Update:** 12/07/2026
+> **Latest Update:** 2026-10-11 – refreshed Codex CLI prompts; added OpenCode and Aider (sourced from their open-source repos, with commit-pinned `SOURCE.md`).
 
 ---
 
