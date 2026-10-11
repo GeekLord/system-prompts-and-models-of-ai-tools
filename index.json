@@ -618,6 +618,51 @@
     "name": "Open Source prompts",
     "files": [
       {
+        "path": "Open Source prompts/Aider/SOURCE.md",
+        "bytes": 154,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/Aider/architect_prompts.py",
+        "bytes": 1469,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/Aider/ask_prompts.py",
+        "bytes": 1395,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/Aider/base_prompts.py",
+        "bytes": 2384,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/Aider/context_prompts.py",
+        "bytes": 3082,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/Aider/editblock_prompts.py",
+        "bytes": 5723,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/Aider/patch_prompts.py",
+        "bytes": 6012,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/Aider/udiff_prompts.py",
+        "bytes": 3320,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/Aider/wholefile_prompts.py",
+        "bytes": 1869,
+        "type": "prompt"
+      },
+      {
         "path": "Open Source prompts/Bolt/Prompt.txt",
         "bytes": 21945,
         "type": "prompt"
@@ -630,6 +675,31 @@
       {
         "path": "Open Source prompts/Codex CLI/Prompt.txt",
         "bytes": 4848,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/Codex CLI/current/SOURCE.md",
+        "bytes": 141,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/Codex CLI/current/gpt-5.1-codex-max_prompt.md",
+        "bytes": 7589,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/Codex CLI/current/gpt-5.2-codex_prompt.md",
+        "bytes": 7589,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/Codex CLI/current/gpt_5_2_prompt.md",
+        "bytes": 21652,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/Codex CLI/current/gpt_5_codex_prompt.md",
+        "bytes": 6647,
         "type": "prompt"
       },
       {
@@ -650,6 +720,36 @@
       {
         "path": "Open Source prompts/Lumo/Prompt.txt",
         "bytes": 8253,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/OpenCode/SOURCE.md",
+        "bytes": 183,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/OpenCode/coder.go",
+        "bytes": 14449,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/OpenCode/prompt.go",
+        "bytes": 3230,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/OpenCode/summarizer.go",
+        "bytes": 612,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/OpenCode/task.go",
+        "bytes": 1043,
+        "type": "prompt"
+      },
+      {
+        "path": "Open Source prompts/OpenCode/title.go",
+        "bytes": 520,
         "type": "prompt"
       },
       {
